@@ -1,0 +1,17 @@
+release/addcarwindow.o
+release/carros.o
+release/client.o
+release/clientspace.o
+release/main.o
+release/mainwindow.o
+release/removecarwindow.o
+release/rentcarwindow.o
+release/secondwindow.o
+release/showcarswindow.o
+release/moc_addcarwindow.o
+release/moc_clientspace.o
+release/moc_mainwindow.o
+release/moc_removecarwindow.o
+release/moc_rentcarwindow.o
+release/moc_secondwindow.o
+release/moc_showcarswindow.o

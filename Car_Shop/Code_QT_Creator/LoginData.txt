@@ -1,0 +1,7 @@
+ADMIN ADMIN true
+TIAGO TIAGO false
+JOAO JOAO false
+DAVID DAVID false
+RUI RUI false
+HELENA HELENA true
+DUARTE DUARTE true

@@ -1,0 +1,17 @@
+debug/addcarwindow.o
+debug/carros.o
+debug/client.o
+debug/clientspace.o
+debug/main.o
+debug/mainwindow.o
+debug/removecarwindow.o
+debug/rentcarwindow.o
+debug/secondwindow.o
+debug/showcarswindow.o
+debug/moc_addcarwindow.o
+debug/moc_clientspace.o
+debug/moc_mainwindow.o
+debug/moc_removecarwindow.o
+debug/moc_rentcarwindow.o
+debug/moc_secondwindow.o
+debug/moc_showcarswindow.o

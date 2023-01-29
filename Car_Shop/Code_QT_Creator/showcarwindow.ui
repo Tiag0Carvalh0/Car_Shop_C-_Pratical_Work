@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>showCarWindow</class>
+ <widget class="QDialog" name="showCarWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>670</width>
+    <height>457</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_2">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QTableWidget" name="tableWidget">
+       <column>
+        <property name="text">
+         <string>Marca</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Modelo</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Ano</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Cilindrada</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Potência</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Preço</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Matricula</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Disponibilidade</string>
+        </property>
+       </column>
+      </widget>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QPushButton" name="pushButton">
+         <property name="text">
+          <string>PushButton</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="input_marca"/>
+       </item>
+       <item>
+        <widget class="QPushButton" name="goBack">
+         <property name="text">
+          <string>Back</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
